@@ -2,6 +2,8 @@
 
 Harborlux is an immersive, single-page real-estate showcase for a private collection of harbour-view penthouses. The experience opens with a cinematic door reveal, layered city imagery, atmospheric video, and a choreographed headline before revealing the navigation and enquiry flow.
 
+<img width="1919" height="892" alt="Screenshot 2026-11-20 172656" src="https://github.com/user-attachments/assets/888e2086-0ef8-45e9-ad08-2d10787bd983" />
+
 > The enquiry form is a front-end demonstration. Submissions are validated in the browser but are not currently persisted or sent to a server.
 
 ## Highlights
